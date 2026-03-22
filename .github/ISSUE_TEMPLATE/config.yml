@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 🐛 Report a Bug
-    url: https://github.com/Hamster-Systems/Hammity.app/issues/new?template=bug_report.md
+    url: https://github.com/Hamster-Systems/Hammity.app/issues/new?template=%F0%9F%90%9B-bug-report.md
     about: Report a reproducible bug or technical issue.
   - name: 💬 General Feedback
     url: https://github.com/Hamster-Systems/Hammity.app/issues/new?template=feedback.md
